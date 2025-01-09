@@ -1,5 +1,5 @@
 { 
-   "name": "VAJIRA", 
+   "name": "prabasha ", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
    "logo": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
@@ -8,7 +8,7 @@
  "env": { 
    "OWNER_NAME": { 
    "description": "අයිතිකාරයගෙ නම", 
-       "value": "vajira" 
+       "value": "prabasha " 
    }, 
    "ALIVE_MESSAGE": { 
      "description": "බොට්ට Alive message එකක්", 
@@ -67,7 +67,7 @@
    }, 
    "OWNER_NUMBER": { 
      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")", 
-        "value": "94766943622" 
+        "value": "94704519149" 
    }, 
      "OPENAI_API_KEY": {
      "description": "කරුණාකර ඔබේ OPENAI api Key එක මෙහි දමන්න.ඒක ගන්න beta.openai.com ", 
